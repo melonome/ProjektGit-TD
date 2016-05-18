@@ -10,7 +10,7 @@ int main(int argc, char ** argv[])
 	}
 	sleep(int(argv[1]));
 
-	printf("pause de %i secondes \n", argv[1]);
+	printf("Pause de %i secondes \n", argv[1]);
 	return 0;	
 }
 
