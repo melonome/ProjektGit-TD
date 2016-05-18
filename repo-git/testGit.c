@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// script codé rapidement, ne remplit aucune fonction particulière  
+
 int main(int argc, char ** argv[])
 {
 	if(argc !=2)
